@@ -1,4 +1,4 @@
-# Campus Intelligence Platform
+# Campus Intelligence Platform  https://github.com/aliali333aass2233-maker/lumina-theme refer to this 
 
 > Pulls placement, admission, and startup data together so a college decision is based on numbers, not word of mouth — built to scale across colleges, with IIT Bombay as the first fully-built reference campus.
 
